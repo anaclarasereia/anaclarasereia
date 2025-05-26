@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @anaclarasereia
+- [![image](https://github.com/user-attachments/assets/f6257041-068b-499b-aa34-207df082c78b)]
 - 👀 I’m interested in games
 - 🌱 I’m currently learning a fazer games
 - 💞️ I’m looking to collaborate on a usar o github
